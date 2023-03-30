@@ -1,0 +1,6 @@
+name: guestbook-api
+containers:
+  - dockerfile: "*.dockerfile"
+    context: ../../
+    args:
+      TURBO_SCOPE: "guestbook-api"

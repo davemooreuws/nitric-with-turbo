@@ -1,3 +1,0 @@
-name: typescript-starter
-handlers:
-- functions/*.ts
